@@ -3,3 +3,4 @@ There are two files:
 2. **Prediction of Mobile Price Based On Its Features** - Compares results of Logistic Regression, KNN and SVM models using important Python libraries like pandas, numpy, sklearn etc.
 3. **Iris Flower Species Classification** - Compares results of Logistic Regression, KNN and Decision Tress Classifier models which classify Iris flowers into its species based on various features like petal height, petal width, sepal height etc.
 4. **Movie Rating Prediction** - Uses regression techiques to analyse and predict movie ratings
+5. **Sales Prediction** - Predicts and forecasts sales based on various features using regression techniques
